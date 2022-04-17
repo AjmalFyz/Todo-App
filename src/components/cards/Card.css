@@ -1,0 +1,28 @@
+
+.card{
+    min-height: 5rem;
+    width: 21rem;
+    border-radius: 1rem;
+    /* background: #FF5D5D; */
+    background: #EEFCEF;
+    display: flex;
+    align-items: center;
+    border: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    
+}
+p{
+    max-width: 21rem;
+    margin: 0;
+    padding: 2rem;
+    color: white;
+    color: black;
+    font-size: 1rem;
+    font-weight: 400;
+    /* text-align: center; */
+
+}
+.both{
+    /* width: 26rem; */
+    display: flex;
+}
